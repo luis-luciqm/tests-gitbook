@@ -18,3 +18,8 @@
 | 7 | 268.7 | 198.5 | 212.5 | 38.0 | 165.5 | 250.5 | 177.4 | 0.0 | 76.1 | 93.9 |
 | 8 | 35.2 | 168.0 | 108.7 | 255.8 | 292.2 | 189.4 | 214.3 | 76.1 | 0.0 | 33.1 |
 | 9 | 132.4 | 73.9 | 55.1 | 185.1 | 119.8 | 259.9 | 23.3 | 93.9 | 33.1 | 0.0 |
+
+## Agradecimentos
+Obrigado por acompanhar este relatório.
+
+Fica um agradecimento especial a quem contribui com aprendizado e evolução contínua em algoritmos e otimização.
