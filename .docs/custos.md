@@ -2,7 +2,7 @@
 
 ## Visão Geral - Custos
 
-Esta página consolida os custos do GitBook para operação da documentação com **1 pessoa** e **3 pessoas**.
+Esta página consolida os custos do GitBook para operação da documentação com **1 pessoa**, **3 pessoas** e **16 pessoas**.
 
 
 
@@ -23,6 +23,10 @@ Exemplos rápidos:
   - `65 + (12 x 3) = US$ 101/mês`
 - Ultimate com 3 usuários:
   - `249 + (12 x 3) = US$ 285/mês`
+- Premium com 16 usuários:
+  - `65 + (12 x 16) = US$ 257/mês`
+- Ultimate com 16 usuários:
+  - `249 + (12 x 16) = US$ 441/mês`
 
 * **Premium**: `US$ 65/site/mês + US$ 12/usuário/mês`
 * **Ultimate**: `US$ 249/site/mês + US$ 12/usuário/mês`
@@ -108,6 +112,22 @@ Inclui tudo do plano Ultimate, além de:
 * Total mensal: **US$ 285/mês** (**R$ 1.435,66/mês**)
 * Estimativa anual (12 meses): **US$ 3.420/ano** (**R$ 17.227,91/ano**)
 * Estimativa anual com campanha "2 meses grátis" (10 meses): **US$ 2.850/ano** (**R$ 14.356,59/ano**)
+
+## Cálculo para 16 pessoas
+
+### Plano Premium
+
+* Fórmula: `65 + (12 x 16)`
+* Total mensal: **US$ 257/mês** (**R$ 1.294,61/mês**)
+* Estimativa anual (12 meses): **US$ 3.084/ano** (**R$ 15.535,34/ano**)
+* Estimativa anual com campanha "2 meses grátis" (10 meses): **US$ 2.570/ano** (**R$ 12.946,12/ano**)
+
+### Plano Ultimate
+
+* Fórmula: `249 + (12 x 16)`
+* Total mensal: **US$ 441/mês** (**R$ 2.221,49/mês**)
+* Estimativa anual (12 meses): **US$ 5.292/ano** (**R$ 26.657,92/ano**)
+* Estimativa anual com campanha "2 meses grátis" (10 meses): **US$ 4.410/ano** (**R$ 22.214,93/ano**)
 
 ## Observações Importantes
 
