@@ -4,8 +4,7 @@
 
 Esta página consolida os custos do GitBook para operação da documentação com **1 pessoa** e **3 pessoas**.
 
-Data de referência dos preços: **25 de maio de 2026** (site oficial do GitBook).  
-Cotação usada para conversão: **1 USD = R$ 5,0374**.
+
 
 ## Estrutura de Preço (GitBook)
 
