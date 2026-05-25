@@ -9,6 +9,22 @@ Cotação usada para conversão: **1 USD = R$ 5,0374**.
 
 ## Estrutura de Preço (GitBook)
 
+Antes dos valores, vale entender a regra de cobrança:
+
+- Em planos pagos, o GitBook cobra **2 partes**:
+  - **Valor fixo por site/mês** (plataforma)
+  - **Valor variável por usuário/mês** (pessoas com acesso)
+- Fórmula geral dos planos pagos:
+  - `Total mensal = valor do site + (valor por usuário x quantidade de usuários)`
+- No plano **Free**, não existe taxa mensal de site e ele já cobre 1 usuário no cenário básico.
+
+Exemplos rápidos:
+
+- Premium com 3 usuários:
+  - `65 + (12 x 3) = US$ 101/mês`
+- Ultimate com 3 usuários:
+  - `249 + (12 x 3) = US$ 285/mês`
+
 * **Premium**: `US$ 65/site/mês + US$ 12/usuário/mês`
 * **Ultimate**: `US$ 249/site/mês + US$ 12/usuário/mês`
 * **Free**: `US$ 0/site/mês` (inclui 1 usuário)
