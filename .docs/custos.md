@@ -1,33 +1,30 @@
 # 💸 Custos da Plataforma (GitBook)
 
-## Visão Geral - Custos
+## Visão Geral - Custos - Página teste
 
 Esta página consolida os custos do GitBook para operação da documentação com **1 pessoa**, **3 pessoas** e **16 pessoas**.
-
-
 
 ## Estrutura de Preço (GitBook)
 
 Antes dos valores, vale entender a regra de cobrança:
 
-- Em planos pagos, o GitBook cobra **2 partes**:
-  - **Valor fixo por site/mês** (plataforma)
-  - **Valor variável por usuário/mês** (pessoas com acesso)
-- Fórmula geral dos planos pagos:
-  - `Total mensal = valor do site + (valor por usuário x quantidade de usuários)`
-- No plano **Free**, não existe taxa mensal de site e ele já cobre 1 usuário no cenário básico.
+* Em planos pagos, o GitBook cobra **2 partes**:
+  * **Valor fixo por site/mês** (plataforma)
+  * **Valor variável por usuário/mês** (pessoas com acesso)
+* Fórmula geral dos planos pagos:
+  * `Total mensal = valor do site + (valor por usuário x quantidade de usuários)`
+* No plano **Free**, não existe taxa mensal de site e ele já cobre 1 usuário no cenário básico.
 
 Exemplos rápidos:
 
-- Premium com 3 usuários:
-  - `65 + (12 x 3) = US$ 101/mês`
-- Ultimate com 3 usuários:
-  - `249 + (12 x 3) = US$ 285/mês`
-- Premium com 16 usuários:
-  - `65 + (12 x 16) = US$ 257/mês`
-- Ultimate com 16 usuários:
-  - `249 + (12 x 16) = US$ 441/mês`
-
+* Premium com 3 usuários:
+  * `65 + (12 x 3) = US$ 101/mês`
+* Ultimate com 3 usuários:
+  * `249 + (12 x 3) = US$ 285/mês`
+* Premium com 16 usuários:
+  * `65 + (12 x 16) = US$ 257/mês`
+* Ultimate com 16 usuários:
+  * `249 + (12 x 16) = US$ 441/mês`
 * **Premium**: `US$ 65/site/mês + US$ 12/usuário/mês`
 * **Ultimate**: `US$ 249/site/mês + US$ 12/usuário/mês`
 * **Free**: `US$ 0/site/mês` (inclui 1 usuário)
