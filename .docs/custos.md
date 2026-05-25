@@ -29,6 +29,55 @@ Exemplos rápidos:
 * **Ultimate**: `US$ 249/site/mês + US$ 12/usuário/mês`
 * **Free**: `US$ 0/site/mês` (inclui 1 usuário)
 
+## Vantagens por Plano
+
+### Free (Livre)
+
+Vantagens principais:
+
+* Editor visual baseado em blocos e blocos personalizados
+* Sincronização com GitHub ou GitLab
+* Ambientes de teste interativos da API
+* Implantações de pré-visualização
+* Otimizações para LLM
+
+### Premium
+
+Inclui tudo do plano Free, além de:
+
+* Convide sua equipe para colaborar
+* Busca por IA
+* Uso de domínio personalizado
+* Opções avançadas de personalização
+* Análises e feedback do usuário
+* Redirecionamentos de site
+
+### Ultimate (Final)
+
+Inclui tudo do plano Premium, além de:
+
+* Assistente de IA
+* Insights de IA
+* Agente GitBook
+* Conteúdo adaptativo
+* Acesso autenticado
+* Consolidação de conteúdo
+* Canais
+
+### Empresa (Enterprise)
+
+Inclui tudo do plano Ultimate, além de:
+
+* SSO SAML para a equipe
+* Serviço de migração de alto padrão
+* Integrações personalizadas
+* Suporte dedicado individualizado
+* Treinamento de usuários
+* Contrato e faturamento personalizados
+* Análises jurídicas e de segurança
+* Conteúdo adaptativo ilimitado
+* Lista de permissões de IP para sincronização Git
+
 ## Cálculo para 1 pessoa
 
 ### Plano Premium
