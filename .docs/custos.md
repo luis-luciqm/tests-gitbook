@@ -1,6 +1,6 @@
 # 💸 Custos da Plataforma (GitBook)
 
-## Resumo
+## Visão Geral
 Esta página consolida os custos do GitBook para operação da documentação com **1 pessoa** e **3 pessoas**.
 
 Data de referência dos preços: **25 de maio de 2026** (site oficial do GitBook).
